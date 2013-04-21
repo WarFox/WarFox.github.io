@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: syntax | My Octopress Blog]]></title>
+  <link href="http://WarFox.github.io/blog/categories/syntax/atom.xml" rel="self"/>
+  <link href="http://WarFox.github.io/"/>
+  <updated>2013-04-21T10:08:16+05:30</updated>
+  <id>http://WarFox.github.io/</id>
+  <author>
+    <name><![CDATA[Deepu Mohan Puthrote]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Syntax Highlighting]]></title>
+    <link href="http://WarFox.github.io/blog/2013/04/21/syntax-highlighting/"/>
+    <updated>2013-04-21T09:58:00+05:30</updated>
+    <id>http://WarFox.github.io/blog/2013/04/21/syntax-highlighting</id>
+    <content type="html"><![CDATA[<p>This is only a test
+``` ruby Discover if a number is prime http://www.noulakaz.net/weblog/2007/03/18/a-regular-expression-to-check-for-prime-numbers/ Source Article
+class Fixnum
+  def prime?</p>
+
+<pre><code>('1' * self) !~ /^1?$|^(11+?)\1+$/
+</code></pre>
+
+<p>  end
+end
+<code>
+Now here is a java code
+</code> java Sample code http://deepumohan.com/tech/
+public class MyClass {</p>
+
+<pre><code>   public static void main(String[] args) {
+          System.out.println("Hello World!!");
+   }
+</code></pre>
+
+<p>}</p>
+]]></content>
+  </entry>
+  
+</feed>
