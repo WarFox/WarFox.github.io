@@ -1,0 +1,22 @@
+---
+layout: post
+title: "Syntax Highlighting"
+date: 2013-04-21 09:58
+comments: true
+categories: test syntax 
+---
+This is only a test
+``` ruby Discover if a number is prime http://www.noulakaz.net/weblog/2007/03/18/a-regular-expression-to-check-for-prime-numbers/ Source Article
+class Fixnum
+  def prime?
+    ('1' * self) !~ /^1?$|^(11+?)\1+$/
+  end
+end
+```
+Now here is a java code
+``` java Sample code http://deepumohan.com/tech/
+public class MyClass {
+       public static void main(String[] args) {
+       	      System.out.println("Hello World!!");
+       }
+}
