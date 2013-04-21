@@ -1,15 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://WarFox.github.io/blog/2013/04/20/octopress-test-post/</loc>
+        <lastmod>2013-04-20T22:30:13+05:30</lastmod>
+    </url>
+    <url>
+        <loc>http://WarFox.github.io/blog/2013/04/21/syntax-highlighting/</loc>
+        <lastmod>2013-04-21T10:01:20+05:30</lastmod>
+    </url>
+    <url>
         <loc>http://WarFox.github.io/blog/archives/</loc>
-        <lastmod>2013-04-20T22:02:50+05:30</lastmod>
+        <lastmod>2013-04-21T10:01:20+05:30</lastmod>
     </url>
     <url>
         <loc>http://WarFox.github.io/</loc>
-        <lastmod>2013-04-20T22:02:50+05:30</lastmod>
+        <lastmod>2013-04-21T10:01:20+05:30</lastmod>
     </url>
     <url>
         <loc>http://WarFox.github.io/robots.txt</loc>
         <lastmod>2013-04-20T22:02:50+05:30</lastmod>
+    </url>
+    <url>
+        <loc>http://WarFox.github.io/super-awesome/</loc>
+        <lastmod>2013-04-20T22:30:42+05:30</lastmod>
+    </url>
+    <url>
+        <loc>http://WarFox.github.io/super-awesome/page.html</loc>
+        <lastmod>2013-04-20T22:31:06+05:30</lastmod>
     </url>
 </urlset>

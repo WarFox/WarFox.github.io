@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: test | My Octopress Blog]]></title>
+  <link href="http://WarFox.github.io/blog/categories/test/atom.xml" rel="self"/>
+  <link href="http://WarFox.github.io/"/>
+  <updated>2013-04-21T10:01:30+05:30</updated>
+  <id>http://WarFox.github.io/</id>
+  <author>
+    <name><![CDATA[Deepu Mohan Puthrote]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Syntax Highlighting]]></title>
+    <link href="http://WarFox.github.io/blog/2013/04/21/syntax-highlighting/"/>
+    <updated>2013-04-21T09:58:00+05:30</updated>
+    <id>http://WarFox.github.io/blog/2013/04/21/syntax-highlighting</id>
+    <content type="html"><![CDATA[<p>This is only a test
+``` ruby Discover if a number is prime http://www.noulakaz.net/weblog/2007/03/18/a-regular-expression-to-check-for-prime-numbers/ Source Article
+class Fixnum
+  def prime?</p>
+
+<pre><code>('1' * self) !~ /^1?$|^(11+?)\1+$/
+</code></pre>
+
+<p>  end
+end
+```</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Octopress Test Post]]></title>
+    <link href="http://WarFox.github.io/blog/2013/04/20/octopress-test-post/"/>
+    <updated>2013-04-20T22:25:00+05:30</updated>
+    <id>http://WarFox.github.io/blog/2013/04/20/octopress-test-post</id>
+    <content type="html"><![CDATA[<p>Bu ah ah ha</p>
+
+<p>Buha ha</p>
+
+<p>waht is this?</p>
+
+<!-- more -->
+
+
+<p>This is octopress!!!</p>
+]]></content>
+  </entry>
+  
+</feed>
