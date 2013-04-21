@@ -4,7 +4,7 @@
   <title><![CDATA[Category: syntax | My Octopress Blog]]></title>
   <link href="http://WarFox.github.io/blog/categories/syntax/atom.xml" rel="self"/>
   <link href="http://WarFox.github.io/"/>
-  <updated>2013-04-21T10:08:16+05:30</updated>
+  <updated>2013-04-21T10:19:02+05:30</updated>
   <id>http://WarFox.github.io/</id>
   <author>
     <name><![CDATA[Deepu Mohan Puthrote]]></name>
@@ -30,7 +30,7 @@ class Fixnum
 end
 <code>
 Now here is a java code
-</code> java Sample code http://deepumohan.com/tech/
+</code> java Sample code http://deepumohan.com/tech/ ting tong
 public class MyClass {</p>
 
 <pre><code>   public static void main(String[] args) {
