@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://WarFox.github.io/atom.xml" rel="self"/>
   <link href="http://WarFox.github.io/"/>
-  <updated>2013-04-21T10:21:52+05:30</updated>
+  <updated>2013-04-21T11:22:02+05:30</updated>
   <id>http://WarFox.github.io/</id>
   <author>
     <name><![CDATA[Deepu Mohan Puthrote]]></name>
@@ -46,6 +46,12 @@
 </span><span class='line'>       <span class="o">}</span>
 </span><span class='line'><span class="o">}</span>
 </span></code></pre></td></tr></table></div></figure>
+
+
+<p>gist</p>
+
+<div><script src='https://gist.github.com/3776540.js'></script>
+<noscript><pre><code></code></pre></noscript></div>
 
 ]]></content>
   </entry>

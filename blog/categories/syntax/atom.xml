@@ -4,7 +4,7 @@
   <title><![CDATA[Category: syntax | My Octopress Blog]]></title>
   <link href="http://WarFox.github.io/blog/categories/syntax/atom.xml" rel="self"/>
   <link href="http://WarFox.github.io/"/>
-  <updated>2013-04-21T10:21:52+05:30</updated>
+  <updated>2013-04-21T11:22:02+05:30</updated>
   <id>http://WarFox.github.io/</id>
   <author>
     <name><![CDATA[Deepu Mohan Puthrote]]></name>
@@ -39,7 +39,11 @@ public class MyClass {</p>
 </code></pre>
 
 <p>}
-```</p>
+```
+gist
+<div><script src='https://gist.github.com/3776540.js'></script>
+<noscript><pre><code></code></pre></noscript></div>
+</p>
 ]]></content>
   </entry>
   
